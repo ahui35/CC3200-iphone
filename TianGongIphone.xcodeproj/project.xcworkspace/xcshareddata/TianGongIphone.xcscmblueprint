@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "9a0c2724-b351-d74e-9134-3028b09fa50c++7806",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "9a0c2724-b351-d74e-9134-3028b09fa50c++7806" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "9a0c2724-b351-d74e-9134-3028b09fa50c++7806" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "CA4583A3-8A85-48E9-A19F-6CDB52A66B48",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "9a0c2724-b351-d74e-9134-3028b09fa50c++7806" : "TianGongIphone\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "TianGongIphone",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "TianGongIphone.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/61.160.245.48\/svn\/Company",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9a0c2724-b351-d74e-9134-3028b09fa50c++7806"
+    }
+  ]
+}
